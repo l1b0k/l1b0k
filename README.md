@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![l1b0k's github stats](https://github-readme-stats.vercel.app/api?username=l1b0k&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1b0k&exclude_repo=l1b0k.github.io&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
